@@ -24,11 +24,24 @@
   },
   "publisher": "jeff-hykin",
   "contributes": {
+    "languages": [
+        {
+            "id": "XData",
+            "aliases": [
+                "XData",
+                "xdata"
+            ],
+            "extensions": [
+                ".xdata"
+            ],
+            "configuration": "./main/language-configuration.json"
+        }
+    ],
     "grammars": [
       {
         "language": "XData",
         "scopeName": "source.xdata",
-        "path": "./generated/syntax.tmLanguage.json",
+        "path": "./generated/syntax.tmLanguage.json.json"
       }
     ]
   },
