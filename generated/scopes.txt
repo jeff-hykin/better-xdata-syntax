@@ -1,0 +1,3 @@
+comment.block.c
+punctuation.definition.comment.begin.c
+punctuation.definition.comment.end.c
