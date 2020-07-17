@@ -70,6 +70,5 @@
     "yargs": "^13.2.2"
   },
   "dependencies": {
-    "textmate-bailout": "^1.1.0"
   }
 }
